@@ -1,0 +1,2 @@
+#!/bin/sh
+exec rsync -cz ./*.svg "www.kemitchell.com:/var/www/svg.kemitchell.com/"
