@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="180.00002mm"
+   height="290.42221mm"
+   viewBox="0 0 180.00002 290.42221"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   sodipodi:docname="sharpening-angles.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="1.17685"
+     inkscape:cx="153.8004"
+     inkscape:cy="677.65646"
+     inkscape:window-width="3840"
+     inkscape:window-height="2121"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       id="grid1"
+       units="mm"
+       originx="-14.999988"
+       originy="-20.034328"
+       spacingx="0.99999998"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-14.999995,-20.034328)">
+    <path
+       style="fill:#cccccc;stroke:#000000;stroke-width:1;stroke-linecap:square"
+       d="M 174.74565,59.463107 92.620121,79.837547 51.389138,79.76336 29.569686,74.873379 46.573344,60.351822 82.988534,41.014456 165.11406,20.640011 Z"
+       id="path1"
+       sodipodi:nodetypes="cccccccc" />
+    <path
+       style="fill:#cccccc;stroke:#000000;stroke-width:1;stroke-linecap:square"
+       d="m 184.32943,207.95758 -75.73839,37.72816 -40.262527,8.88425 -22.360658,-0.0334 13.443071,-17.86852 31.344924,-26.7861 75.73841,-37.72814 z"
+       id="path2"
+       sodipodi:nodetypes="cccccccc" />
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-dasharray:1, 2;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect2"
+       width="180.00002"
+       height="39.999996"
+       x="15"
+       y="79.999992" />
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-dasharray:1, 2;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3"
+       width="180.00002"
+       height="39.999996"
+       x="14.999995"
+       y="255" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-dasharray:1, 2;stroke-dashoffset:0;stroke-opacity:1"
+       x="14.652735"
+       y="132.62425"
+       id="text3"><tspan
+         sodipodi:role="line"
+         id="tspan3"
+         style="font-size:11.2889px;stroke-width:1"
+         x="14.652735"
+         y="132.62425">sharpening the primary bevel</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-dasharray:1, 2;stroke-dashoffset:0;stroke-opacity:1"
+       x="14.652735"
+       y="308.08081"
+       id="text4"><tspan
+         sodipodi:role="line"
+         id="tspan4"
+         style="font-size:11.2889px;stroke-width:1"
+         x="14.652735"
+         y="308.08081">sharpening the secondary bevel</tspan></text>
+  </g>
+</svg>

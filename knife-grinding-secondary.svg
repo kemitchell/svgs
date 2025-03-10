@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="180.00002mm"
+   height="138.97321mm"
+   viewBox="0 0 180.00002 138.97321"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   sodipodi:docname="grinding-secondary.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.6133347"
+     inkscape:cx="98.553636"
+     inkscape:cy="470.14423"
+     inkscape:window-width="3840"
+     inkscape:window-height="2121"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-78.845833,-24.077074)">
+    <path
+       style="fill:#cccccc;stroke:#000000;stroke-width:1;stroke-linecap:square"
+       d="m 248.17527,60.55131 -75.73839,37.72816 -40.26253,8.88425 -22.36066,-0.0334 13.44307,-17.86852 31.34493,-26.7861 75.73841,-37.72814 z"
+       id="path2"
+       sodipodi:nodetypes="cccccccc" />
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-dasharray:1, 2;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3"
+       width="180.00002"
+       height="39.999996"
+       x="78.845833"
+       y="107.59373" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-dasharray:1, 2;stroke-dashoffset:0;stroke-opacity:1"
+       x="78.498573"
+       y="160.67455"
+       id="text4"><tspan
+         sodipodi:role="line"
+         id="tspan4"
+         style="font-size:11.2889px;stroke-width:1"
+         x="78.498573"
+         y="160.67455">grinding the secondary bevel</tspan></text>
+  </g>
+</svg>
