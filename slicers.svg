@@ -51,27 +51,27 @@
 <path fill="none" stroke="black" d="M201.66,-143.7C201.66,-136.41 201.66,-127.73 201.66,-119.54"/>
 <polygon fill="black" stroke="black" points="205.16,-119.62 201.66,-109.62 198.16,-119.62 205.16,-119.62"/>
 </g>
-<!-- Orca Slicer -->
+<!-- OrcaSlicer -->
 <g id="node5" class="node">
-<title>Orca Slicer</title>
-<ellipse fill="none" stroke="black" cx="242.66" cy="-18" rx="52.89" ry="18"/>
-<text xml:space="preserve" text-anchor="middle" x="242.66" y="-12.95" font-family="Times,serif" font-size="14.00">Orca Slicer</text>
+<title>OrcaSlicer</title>
+<ellipse fill="none" stroke="black" cx="242.66" cy="-18" rx="50.33" ry="18"/>
+<text xml:space="preserve" text-anchor="middle" x="242.66" y="-12.95" font-family="Times,serif" font-size="14.00">OrcaSlicer</text>
 </g>
-<!-- PrusaSlicer&#45;&gt;Orca Slicer -->
+<!-- PrusaSlicer&#45;&gt;OrcaSlicer -->
 <g id="edge5" class="edge">
-<title>PrusaSlicer&#45;&gt;Orca Slicer</title>
+<title>PrusaSlicer&#45;&gt;OrcaSlicer</title>
 <path fill="none" stroke="black" d="M228.67,-146.07C242.16,-137 257.18,-124.07 264.66,-108 273.82,-88.31 266.97,-64.32 258.57,-46.22"/>
 <polygon fill="black" stroke="black" points="261.74,-44.74 254.09,-37.4 255.5,-47.9 261.74,-44.74"/>
 </g>
-<!-- Bambu Studio&#45;&gt;Orca Slicer -->
+<!-- Bambu Studio&#45;&gt;OrcaSlicer -->
 <g id="edge4" class="edge">
-<title>Bambu Studio&#45;&gt;Orca Slicer</title>
-<path fill="none" stroke="black" d="M100.68,-74.83C128.91,-63.73 168.32,-48.24 198.45,-36.38"/>
-<polygon fill="black" stroke="black" points="199.67,-39.67 207.69,-32.75 197.1,-33.15 199.67,-39.67"/>
+<title>Bambu Studio&#45;&gt;OrcaSlicer</title>
+<path fill="none" stroke="black" d="M100.68,-74.83C129.09,-63.66 168.82,-48.04 199.03,-36.16"/>
+<polygon fill="black" stroke="black" points="200.26,-39.43 208.28,-32.52 197.7,-32.92 200.26,-39.43"/>
 </g>
-<!-- SuperSlicer&#45;&gt;Orca Slicer -->
+<!-- SuperSlicer&#45;&gt;OrcaSlicer -->
 <g id="edge7" class="edge">
-<title>SuperSlicer&#45;&gt;Orca Slicer</title>
+<title>SuperSlicer&#45;&gt;OrcaSlicer</title>
 <path fill="none" stroke="black" d="M211.58,-72.05C216.22,-64.14 221.84,-54.54 227.03,-45.69"/>
 <polygon fill="black" stroke="black" points="230.03,-47.49 232.06,-37.1 223.99,-43.95 230.03,-47.49"/>
 </g>
@@ -81,11 +81,11 @@
 <ellipse fill="none" stroke="black" cx="361.66" cy="-90" rx="50.33" ry="18"/>
 <text xml:space="preserve" text-anchor="middle" x="361.66" y="-84.95" font-family="Times,serif" font-size="14.00">CuraSlicer</text>
 </g>
-<!-- CuraSlicer&#45;&gt;Orca Slicer -->
+<!-- CuraSlicer&#45;&gt;OrcaSlicer -->
 <g id="edge6" class="edge">
-<title>CuraSlicer&#45;&gt;Orca Slicer</title>
-<path fill="none" stroke="black" d="M336.42,-74.15C319.42,-64.15 296.75,-50.82 277.97,-39.77"/>
-<polygon fill="black" stroke="black" points="279.97,-36.89 269.57,-34.83 276.42,-42.92 279.97,-36.89"/>
+<title>CuraSlicer&#45;&gt;OrcaSlicer</title>
+<path fill="none" stroke="black" d="M336.42,-74.15C319.3,-64.09 296.45,-50.64 277.58,-39.54"/>
+<polygon fill="black" stroke="black" points="279.56,-36.64 269.16,-34.59 276.01,-42.68 279.56,-36.64"/>
 </g>
 </g>
 </svg>

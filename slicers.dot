@@ -1,8 +1,8 @@
 digraph slicers {
   Slic3r -> PrusaSlicer -> "Bambu Studio";
   PrusaSlicer -> SuperSlicer;
-  "Bambu Studio" -> "Orca Slicer";
-  PrusaSlicer -> "Orca Slicer";
-  CuraSlicer -> "Orca Slicer";
-  SuperSlicer -> "Orca Slicer";
+  "Bambu Studio" -> OrcaSlicer;
+  PrusaSlicer -> OrcaSlicer;
+  CuraSlicer -> OrcaSlicer;
+  SuperSlicer -> OrcaSlicer;
 }
